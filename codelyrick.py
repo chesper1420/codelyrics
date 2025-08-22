@@ -11,7 +11,7 @@ dihentikan = False
 daftar_genre = {
    "dangdut": {
         "4 Mata": {
-            "file": "lagu_dangdut.wav",
+            "file": "assets/dangdut/lagu_dangdut1.wav",
             "lyrics": [
                 ("\nberikanlah aku waktu", 0.2),
                 ("dan keadaan yang engkau mampu", 0.1),
@@ -27,7 +27,7 @@ daftar_genre = {
             "delays": [0.3, 0.4, 0.4, 0.8, 0.4, 0.9, 0.4, 0.4, 0.4, 0.5]
         },
         "Rungkad": {
-            "file": "lagu_dangdut2.wav",
+            "file": "assets/dangdut/lagu_dangdut2.wav",
             "lyrics": [
                 ("\nsaiki aku wes sadar", 0.1),
                 ("terlalu goblok mencintaimu", 0.2),
@@ -42,7 +42,7 @@ daftar_genre = {
             "delays": [0.4, 0.7, 0.3, 0.5, 0.3, 0.3, 0.4, 0.5, 0.6]
         },
         "Iwak peyek": {
-            "file": "lagu_dangdut3.wav",
+            "file": "assets/dangdut/lagu_dangdut3.wav",
             "lyrics": [
                 ("\nBergembira dan bahagia selalu", 0.07),
                 ("disini aku menghibur kamu", 0.1),
@@ -57,7 +57,7 @@ daftar_genre = {
             "delays": [0.3, 0.6, 0.3, 0.6, 0.3, 0.3, 0.3, 0.3, 0.3]
         },
         "Bara Bere": {
-            "file": "lagu_dangdut4.wav",
+            "file": "assets/dangdut/lagu_dangdut4.wav",
             "lyrics": [
                 ("\nMinyak wangi abis", 0.1),
                 ("bedak sudah abis", 0.1),
@@ -73,7 +73,7 @@ daftar_genre = {
             "delays": [0.3, 0.3, 0.3, 0.3, 0.3, 0.6, 0.3, 0.3, 0.6, 0.3]
         },
         "Goyang Nasi Padang": {
-            "file": "lagu_dangdut5.wav",
+            "file": "assets/dangdut/lagu_dangdut5.wav",
             "lyrics": [
                 ("\nIni lagu baru diciptakan", 0.1),
                 ("diciptakan hanya satu malam", 0.1),
@@ -91,7 +91,7 @@ daftar_genre = {
     },
     "pop": {
         "Where We Are": {
-            "file": "lagu_pop.wav",
+            "file": "assets/dangdut/pop/lagu_pop1.wav",
             "lyrics": [
                 ("\nDid we ever know?", 0.07),
                 ("Did we ever know?", 0.07),
@@ -107,7 +107,7 @@ daftar_genre = {
             "delays": [0.3, 0.3, 0.5, 3, 0.4, 1, 0.8, 0.5, 1, 0.5]
         },
         "Don't mind": {
-            "file": "lagu_pop2.wav",
+            "file": "assets/dangdut/pop/lagu_pop2.wav",
             "lyrics": [
                 ("\nshe tellin' me this and tellin' me that", 0.07),
                 ("you said once you take me with you, l'll never go back", 0.05),
@@ -121,7 +121,7 @@ daftar_genre = {
             "delays": [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3]
         },
         "NINA": {
-            "file": "lagu_pop3.wav",
+            "file": "assets/dangdut/pop/lagu_pop3.wav",
             "lyrics": [
                 ("\naku tau kamu hebat", 0.1),
                 ("namun selamanya diriku pasti berkutat", 0.1),
@@ -137,7 +137,7 @@ daftar_genre = {
             "delays": [0.3, 0.4, 0.5, 0.4, 0.6, 2, 0.6, 1, 1, 0.5]
         },
         "Mangu": {
-            "file": "lagu_pop4.wav",
+            "file": "assets/dangdut/pop/lagu_pop4.wav",
             "lyrics": [
                 ("\njangan salahkan faham ku kini tertuju ooohh", 0.2),
                 ("siapa yang tau siapa yang mau", 0.2),
@@ -154,7 +154,7 @@ daftar_genre = {
             "delays": [0.4, 0.4, 0.5, 0.3, 0.6, 0.3, 0.8, 0.5, 0.6, 0.5, 0.8]
         },
         "Ribuan Memori": {
-            "file": "lagu_pop5.wav",
+            "file": "assets/dangdut/pop/lagu_pop5.wav",
             "lyrics": [
                 ("\nPilihanmu kawan, tidak mengapa ohh, tak apa-apa", 0.1),
                 ("jika ada ingatan yang terus meghangatkan dirimu", 0.1),
@@ -167,7 +167,7 @@ daftar_genre = {
     },
     "hip-hop": {
         "kasih aba-aba": {
-            "file": "lagu_hip.wav",
+            "file": "assets/dangdut/hiphop/lagu_hip1.wav",
             "lyrics": [
                 ("\nlagu siapa ya lagu aku", 0.07),
                 ("kalau duet ya sama kamu", 0.07),
@@ -186,7 +186,7 @@ daftar_genre = {
             "delays": [0.3, 0.4, 0.5, 0.5, 0.5, 0.4, 0.5, 0.6, 0.4, 0.3, 0.3, 0.3, 0.6]
         },
         "Aku dah lupa": {
-            "file": "lagu_hip2.wav",
+            "file": "assets/dangdut/hiphop/lagu_hip2.wav",
             "lyrics": [
                 ("\ntak nak pusing, tak nak tanya", 0.07),
                 ("aku kuat tanpa drama", 0.07),
@@ -202,7 +202,7 @@ daftar_genre = {
             "delays": [0.3] * 10
         },
         "Pica-pica": {
-            "file": "lagu_hip3.wav",
+            "file": "assets/dangdut/hiphop/lagu_hip3.wav",
             "lyrics": [
                 ("\nNona ambon pica-pica", 0.07),
                 ("nona NTT linca-linca", 0.07),
@@ -223,7 +223,7 @@ daftar_genre = {
             "delays": [0.3, 0.4, 0.5, 0.5, 0.5, 0.4, 0.4, 0.4, 0.4, 0.3, 0.3, 0.3, 0.3, 0.3, 0.5]
         },
         "Stecu": {
-            "file": "lagu_hip4.wav",
+            "file": "assets/dangdut/hiphop/lagu_hip4.wav",
             "lyrics": [
                 ("\naduh abang bukan maksudku begituu", 0.1),
                 ("masalah stecu bukan brarti tak mauuuu", 0.1),
@@ -238,7 +238,7 @@ daftar_genre = {
             "delays": [0.3, 0.6, 0.6, 0.4, 0.4, 1, 1, 1, 1]
         },
         "Tante": {
-            "file": "lagu_hip5.wav",
+            "file": "assets/dangdut/hiphop/lagu_hip5.wav",
             "lyrics": [
                 ("\nTanteeeeeeeeeeee", 0.1),
                 ("sudah terbiasa terjadi tante", 0.1),
@@ -253,7 +253,7 @@ daftar_genre = {
     },
     "rock":{
         "Helena": {
-            "file": "lagu_rock.wav",
+            "file": "assets/dangdut/rock/lagu_rock1.wav",
             "lyrics": [
                 ("\nwell i've been holding on to night", 0.1),
                 ("what the worst that i can say?", 0.1),
@@ -268,7 +268,7 @@ daftar_genre = {
             "delays": [0.6, 0.6, 0.6, 0.6, 0.3, 0.8, 0.6, 0.8, 0.9]
         },
         "Gunslinger": {
-            "file": "lagu_rock2.wav",
+            "file": "assets/dangdut/rock/lagu_rock2.wav",
             "lyrics": [
                 ("\ncause with all these things we do", 0.07),
                 ("it don't matter", 0.07),
@@ -287,7 +287,7 @@ daftar_genre = {
             "delays": [0.3, 0.3, 0.3, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9]
         },
         "Basket Case": {
-            "file": "lagu_rock3.wav",
+            "file": "assets/dangdut/rock/lagu_rock3.wav",
             "lyrics": [
                 ("\nDo you have the time to listen to me whine?", 0.09),
                 ("about nothing and everything, all at once", 0.1),
@@ -303,7 +303,7 @@ daftar_genre = {
             "delays": [0.3, 0.6, 2, 1, 0.9, 4, 2, 1, 0.9, 0.3]
         },
         "A Little Piece of Heaven": {
-            "file": "lagu_rock4.wav",
+            "file": "assets/dangdut/rock/lagu_rock4.wav",
             "lyrics": [
                 ("\nsmiling right from ear to ear", 0.1),
                 ("almost laughed herself to tears", 0.1),
@@ -319,7 +319,7 @@ daftar_genre = {
             "delays": [0.3, 2, 2, 0.3, 0.9, 0.3, 0.3, 0.3, 0.3, 0.3]
         },
         "Bulan & satria": {
-            "file": "lagu_rock5.wav",
+            "file": "assets/dangdut/rock/lagu_rock5.wav",
             "lyrics": [
                 ("\nDerap kuda ksatria gagah dekati surga", 0.07),
                 ("walau neraka berjanji tuk menghabisinya", 0.07),
@@ -339,7 +339,7 @@ daftar_genre = {
     },
     "jazz": {
         "cinta": {
-            "file": "lagu_jazz.wav",
+            "file": "assets/dangdut/jazz/lagu_jazz1.wav",
             "lyrics": [
                 ("\nbawalah diriku selamanya", 0.1),
                 ("dalam mimpimu", 0.1),
@@ -353,7 +353,7 @@ daftar_genre = {
             "delays": [0.3, 0.3, 0.3, 0.3, 0.6, 0.6, 0.6, 0.6,]
         },
         "Akad": {
-            "file": "lagu_jazz2.wav",
+            "file": "assets/dangdut/jazz/lagu_jazz2.wav",
             "lyrics": [
                 ("\nbila nanti saatnya telah tiba", 0.2),
                 ("ku ingin kau menjadi istriku", 0.1),
@@ -363,7 +363,7 @@ daftar_genre = {
             "delays": [0.6, 0.9, 0.9, 0.9]
         },
         "Apa mungkin": {
-            "file": "lagu_jazz3.wav",
+            "file": "assets/dangdut/jazz/lagu_jazz3.wav",
             "lyrics": [
                 ("\nhinggaku harus menerka nerka", 0.1),
                 ("salahku dimana?", 0.1),
@@ -375,7 +375,7 @@ daftar_genre = {
             "delays": [0.6, 1, 2, 2, 3, 0.6]
         },
         "Lantas": {
-            "file": "lagu_jazz4.wav",
+            "file": "assets/dangdut/jazz/lagu_jazz4.wav",
             "lyrics": [
                 ("\nLantas mengapa ku masih menaruh hati", 0.1),
                 ("lantas mengapa ku masih menaruh hati", 0.1),
@@ -386,7 +386,7 @@ daftar_genre = {
             "delays": [0.6, 2, 1, 2, 2]
         },
         "Lampu Merah": {
-            "file": "lagu_jazz5.wav",
+            "file": "assets/dangdut/jazz/lagu_jazz5.wav",
             "lyrics": [
                 ("\nTapi ku berada di lampu merah", 0.2),
                 ("ku harap", 0.1),
